@@ -1,0 +1,50 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.top
+{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(62, 144, 62);
+}
+.middle
+{
+    height: 600px;
+    width: 100%;
+    /* background-color:black; */
+    display: flex;
+}
+.box1
+{
+    height: 600px;
+    width: 60%;
+    /* background-color: blue; */
+}
+.a1
+{
+    height: 300px;
+    width: 100%;
+    background-color:blue;
+}
+.a2
+{
+    height: 300px;
+    width: 100%;
+    background-color:red;
+
+}
+.box2
+{
+    height: 600px;
+    width: 40%;
+    background-color: yellow;
+}
+.end
+{
+    height: 150px;
+    width: 100%;
+    background-color: purple;
+}
